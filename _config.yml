@@ -23,14 +23,14 @@ repository               : "Sami-Irfan/sami-irfan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Cropped_MSI.jpg"
   name             : "Muhammad Sami Irfan"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate@UA"
+  bio              : "Ph.D. candidate @ UA"
   location         : "Tuscaloosa, AL"
   employer         : "The University of Alabama"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mirfans@crimson.ua.edu" 
 
   # Academic websites
   academia         : # URL
