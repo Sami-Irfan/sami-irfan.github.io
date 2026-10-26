@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am a Ph.D. candidate in the Department of Civil, Construction, and Environmental Engineering at **The University of Alabama**, working under the supervision of **Dr. Mizanur Rahman**. My research focuses on the security and resilience of positioning and navigation systems, particularly for connected and autonomous vehicles.
 
 My doctoral research investigates vulnerabilities in **Global Navigation Satellite Systems (GNSS)**, with an emphasis on spoofing attacks, and develops approaches for detecting navigation anomalies and maintaining reliable vehicle localization under adversarial conditions. My work integrates GNSS, inertial navigation systems, LiDAR, and digital map information to enhance navigation integrity and resilience.
@@ -51,7 +49,8 @@ then remove the Liquid comment tags around the next line.
 
 - **September 2026** — Presented *“A Synchronous GNSS Spoofing Attack Model by Exploiting Basic Safety Message Transmissions for Connected and Automated Vehicles”* at **ION GNSS+ 2026**.
 - **July 2026** — Successfully defended my Ph.D. dissertation proposal at The University of Alabama.
-- **2025** — Selected as one of 30 **Traffic Safety Scholars** nationwide to attend the Lifesavers Conference on Roadway Safety.
+- **April 2025** — Awarded the Outstanding MS thesis award by the Graduate School at The University of Alabama.
+- **March 2025** — Selected as one of 30 **Traffic Safety Scholars** nationwide to attend the Lifesavers Conference on Roadway Safety.
 - **January 2025** — Presented research on particle-filter-based GNSS spoofing detection at **ION ITM 2025**.
 
 ## Explore My Work
